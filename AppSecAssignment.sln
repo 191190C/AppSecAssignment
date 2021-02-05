@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppSecAssignment", "AppSecAssignment\AppSecAssignment.csproj", "{DE451FD4-BD5B-4872-9367-FE1501C2C306}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DE451FD4-BD5B-4872-9367-FE1501C2C306}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE451FD4-BD5B-4872-9367-FE1501C2C306}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE451FD4-BD5B-4872-9367-FE1501C2C306}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE451FD4-BD5B-4872-9367-FE1501C2C306}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B4E345F0-1382-442A-AAAF-55B782D32C5E}
+	EndGlobalSection
+EndGlobal
