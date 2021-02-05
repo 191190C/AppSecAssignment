@@ -13,7 +13,7 @@
                 return ("too_short");
             }
 
-            // If password does not have at least one numeral, do not allow
+            // If password does not have at least one numeral, do not allow.
             else if (pwd.search(/[0-9]/) == -1)) {
                 document.getElementById("pwdRating_lbl").innerHTML = "Password requires at least one number.";
                 document.getElementById("pwdRating_lbl").style.color = red;
